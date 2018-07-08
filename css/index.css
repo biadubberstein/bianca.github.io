@@ -1,0 +1,32 @@
+.jumbotron {
+    background-color: #bc8f8f;
+    color: #fff;
+    padding: 137px 127px;
+    text-transform: uppercase;
+}
+
+.w3-container {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background-color: #bc8f8f;
+  color: white;
+}
+
+#sobremim {
+  padding: 90px 14px;
+}
+
+#portifolio {
+  padding: 80px 14px;
+
+}
+
+#habilidades {
+    padding: 80px 14px;
+
+}
+
+#contact {
+  padding: 80px 14px;
+}
